@@ -21,3 +21,6 @@ The **_new_** operator does several important things:
 - It returns the memory address so that it can be saved in the dice object.
 
 Developers refer to the code that implements different execution paths as _code branches._
+
+An **array**is a collection of individual data elements accessible through a single variable name.
+An **array** is a special type of variable that can hold multiple values of the same data type.
