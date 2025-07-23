@@ -24,3 +24,8 @@ Developers refer to the code that implements different execution paths as _code 
 
 An **array**is a collection of individual data elements accessible through a single variable name.
 An **array** is a special type of variable that can hold multiple values of the same data type.
+
+The **for** statement: executes its body while a specified Boolean expression (the 'condition') evaluates to true.
+The **foreach** statement: enumerates the elements of a collection and executes its body for each element of the collection.
+The **do-while** statement: conditionally executes its body one or more times.
+The **while** statement: conditionally executes its body zero or more times.
